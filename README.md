@@ -1,2 +1,2 @@
-# PortfolioProject-SQL-1
+# SQL Task
 This is the SQL script for the Covid deaths and vaccination project.
